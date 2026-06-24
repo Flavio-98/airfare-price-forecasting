@@ -60,6 +60,10 @@ Para isso foram comparadas abordagens estatísticas clássicas e algoritmos de M
 | Média Móvel           | 78,58  | 101,05 | 9,48%  |
 | Naive                 | 107,22 | 128,27 | 12,80% |
 
+## Comparação entre valores reais e previstos
+
+<img width="1025" height="557" alt="image" src="https://github.com/user-attachments/assets/c8f5844e-d45b-46c3-85d0-469177bb594f" />
+
 ## Principais Insights
 
 * O XGBoost apresentou o menor erro percentual médio (MAPE de 7,03%).
